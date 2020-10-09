@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AdoNET3\AdoNET3\bin\Debug\AdoNET3.exe.config
+C:\Users\user\source\repos\AdoNET3\AdoNET3\bin\Debug\AdoNET3.exe
+C:\Users\user\source\repos\AdoNET3\AdoNET3\bin\Debug\AdoNET3.pdb
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.frmAna.resources
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.frmKullaniciEkle.resources
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.Properties.Resources.resources
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.exe
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.pdb
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.frmKullaniciGuncelle.resources
+C:\Users\user\source\repos\AdoNET3\AdoNET3\obj\Debug\AdoNET3.frmKullaniciSil.resources

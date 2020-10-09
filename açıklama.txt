@@ -1,0 +1,6 @@
+* AdoNet ile yapılmış bir çalışmadır.
+* Sql veri tabanına entegre edilmiş şekilde yapılmıştır.
+* Sql de Stored Product kullanılarak yapılmıştır.
+* Insert, Update, Select, Delete işlemleri yapılmıştır.
+* Kodlarım İşlemler Dosyası içerisinde bulunmaktadır.
+* Ek olarak projemide AdoNet klasöründe görebilirsiniz.
